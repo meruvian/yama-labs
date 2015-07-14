@@ -1,4 +1,4 @@
-package org.meruvian.yama.cs.hazelcast.webapi;
+package org.meruvian.yama.cs.hazelcast.webapi.config;
 
 import java.util.Map;
 
