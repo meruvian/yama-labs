@@ -1,2 +1,2 @@
-# yama-case-studies
-Case studies based on yama http://github.com/meruvian/yama
+# Yama Labs
+Yama showcase to demonstrate experimental features of yama http://github.com/meruvian/yama
